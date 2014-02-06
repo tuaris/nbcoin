@@ -17,6 +17,10 @@ software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the NBcoin client software, see http://www.nbcoin.org.
 
+A working node is avialable at:
+
+63.247.147.164:6333
+
 License
 -------
 
